@@ -1,0 +1,7 @@
+- Supermarket checkout lines — simulate customer arrivals, queue lengths and cashier allocation.
+Why simulation? Real-world experiments (closing lanes or changing staff schedules) disrupt operations and are costly. The system has variability (arrival times, service times) and interconnections (checkout throughput affects in-store congestion). Simulation allows “what-if” evaluation of staff schedules, express lanes, or self-checkout before implementing.
+Sustainability aspects to include: energy use of different configurations (more self-checkouts vs. staffed lanes), customer walking distance (store layout), waste (perishable goods spoilage due to slow checkout), and staff overtime (human well-being).
+
+- Hospital emergency department — arrivals vary, triage and doctor availability interact, capacity constraints and resource reuse matter.
+Why simulation? Ethical/operational constraints make real experiments impossible; variability and dynamic complexity (surges, delays) require repeated scenario testing.
+Sustainability aspects: resource utilization (beds, equipment), staff fatigue/shift planning (human sustainability), and environmental impacts (energy & disposables usage under different patient-flow scenarios).
