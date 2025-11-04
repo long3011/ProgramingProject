@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.1intro/1.1intro.iml" filepath="$PROJECT_DIR$/1.1intro/1.1intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2ThreePhaseSimulator/1.2ThreePhaseSimulator.iml" filepath="$PROJECT_DIR$/1.2ThreePhaseSimulator/1.2ThreePhaseSimulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingProject.iml" filepath="$PROJECT_DIR$/ProgrammingProject.iml" />
     </modules>
   </component>
