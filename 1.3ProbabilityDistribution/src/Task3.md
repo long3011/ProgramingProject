@@ -1,0 +1,1 @@
+Because a proper Singleton hides its constructor (e.g., private in Java). This prevents external code from calling new, so only the class itself can create the single instance and return it via a public static accessor (like getInstance). Allowing new outside would permit multiple instances and break the Singleton guarantee.

@@ -1,0 +1,5 @@
+- Human height: Most people have heights close to the average, and the number of people decreases as you move toward the extreme ends of the height spectrum (very tall or very short).
+- IQ scores: In a large population, IQ scores are designed to follow a normal distribution, centered around an average of 100.
+- Test scores: When a large number of students take a test, most scores tend to be close to the average, while there are fewer very high and very low scores.
+- Blood pressure: Blood pressure readings in a large population often approximate a normal distribution with a mean and a certain standard deviation.
+- Manufacturing variations: In manufacturing, slight variations in measurements of a product are often normally distributed, with most products falling within a very narrow range around the target specification. 
